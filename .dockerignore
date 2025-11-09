@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md
+CLAUDE.md
+README.md
+
+# Training data (not needed for inference)
+train_data/
+
+# Results and outputs
+results/
+extracted_cells/
+calibration_samples/
+temp_results/
+nul
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Unused dataset files (we only need specific files)
+dataset/images/
+
+# Training runs (except the specific model we need)
+runs/detect/pubg_item_detection/
+runs/detect/pubg_item_detection2/
+# Keep: runs/detect/pubg_item_detection3/weights/best.pt
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Logs
+*.log
+logs/

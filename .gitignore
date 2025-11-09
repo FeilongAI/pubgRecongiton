@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Test outputs
+calibration_samples/
+extracted_cells/
+*_result.txt
+*_result.png
+analyze_module.py
+
+# Screenshots (comment out if you want to track them)
+*.png
+!dataset/images/*.png
+
+# Dataset (optional - uncomment if dataset is large)
+/dataset/images/
+
+/scripts/*.json
+/train_data/*
