@@ -1,5 +1,7 @@
 # YOLOv8 and training
 ultralytics>=8.0.0
+# Use CPU-only PyTorch for smaller image size (~500MB vs 3GB)
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch>=2.0.0
 torchvision>=0.15.0
 
