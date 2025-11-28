@@ -26,7 +26,7 @@ on:
 env:
   # Change this to your Docker Hub repository name
   # Format: dockerhub_username/repository_name
-  IMAGE_NAME: your-dockerhub-username/pubgitem
+  IMAGE_NAME: feilong18/pubgitem
 
 jobs:
   build-and-push:
