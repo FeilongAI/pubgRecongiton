@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  pubg-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: pubg-item-recognition:latest
+    container_name: pubg-item-api
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Optional: mount local results directory for debugging
+      - ./temp_results:/app/temp_results
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    # Resource limits (adjust based on your hardware)
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
