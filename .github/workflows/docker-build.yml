@@ -17,7 +17,7 @@ env:
   # Configure these based on your registry choice
   REGISTRY: ghcr.io
   # For Docker Hub, use: docker.io
-  IMAGE_NAME: ${{ github.repository }}
+  IMAGE_NAME: feilong18/pubgitem
 
 jobs:
   build-and-push:
