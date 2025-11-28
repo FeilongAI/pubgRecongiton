@@ -245,7 +245,7 @@ async def recognize_items_from_urls(request: ImageUrlRequest):
 
     This endpoint is designed for batch processing of images from cloud storage.
     It downloads images from the provided URLs, processes them, and returns
-    deduplicated item codes.
+    deduplicated items with their codes and names.
 
     Args:
         request: JSON body containing list of image URLs
@@ -257,9 +257,18 @@ async def recognize_items_from_urls(request: ImageUrlRequest):
                 }
 
     Returns:
-        JSON with deduplicated item codes:
+        JSON with deduplicated items:
         {
-            "item_codes": ["11010018", "11020019", ...],
+            "items": [
+                {
+                    "item_code": "11010018",
+                    "item_name": "PUBG Logo Tee"
+                },
+                {
+                    "item_code": "11020019",
+                    "item_name": "Combat Pants (Black)"
+                }
+            ],
             "total_items_detected": 15,
             "unique_items": 12,
             "images_processed": 3,
@@ -288,7 +297,7 @@ async def recognize_items_from_urls(request: ImageUrlRequest):
         # Get recognizer instance
         rec = get_recognizer()
 
-        all_item_codes = []
+        all_items = []
         total_detections = 0
         failed_downloads = 0
         downloaded_files = []
@@ -309,9 +318,12 @@ async def recognize_items_from_urls(request: ImageUrlRequest):
                     save_visualization=False
                 )
 
-                # Extract item codes
+                # Extract item information (code and name)
                 for item in results:
-                    all_item_codes.append(item['item_code'])
+                    all_items.append({
+                        'item_code': item['item_code'],
+                        'item_name': item['name']
+                    })
                     total_detections += 1
 
                 print(f"  → Detected {len(results)} items")
@@ -335,18 +347,18 @@ async def recognize_items_from_urls(request: ImageUrlRequest):
             except Exception as e:
                 print(f"Warning: Failed to delete temporary file {tmp_path}: {e}")
 
-        # Deduplicate item codes (preserve order of first occurrence)
-        seen = set()
-        unique_item_codes = []
-        for code in all_item_codes:
-            if code not in seen:
-                seen.add(code)
-                unique_item_codes.append(code)
+        # Deduplicate items by item_code (preserve order of first occurrence)
+        seen_codes = set()
+        unique_items = []
+        for item in all_items:
+            if item['item_code'] not in seen_codes:
+                seen_codes.add(item['item_code'])
+                unique_items.append(item)
 
         return {
-            "item_codes": unique_item_codes,
+            "items": unique_items,
             "total_items_detected": total_detections,
-            "unique_items": len(unique_item_codes),
+            "unique_items": len(unique_items),
             "images_processed": len(request.image_urls) - failed_downloads,
             "failed_downloads": failed_downloads
         }
