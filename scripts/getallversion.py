@@ -286,15 +286,15 @@ if __name__ == "__main__":
     scraper = PUBGItemScraper()
 
     # 方式1: 抓取所有版本
-    scraper.scrape_all_updates(
-        language="zh-CN",
-        output_dir="pubg_data",
-        delay=1.0  # 每次请求间隔1秒
-    )
+    # scraper.scrape_all_updates(
+    #     language="zh-CN",
+    #     output_dir="pubg_data",
+    #     delay=1.0  # 每次请求间隔1秒
+    # )
 
     # 方式2: 只抓取指定版本
-    # versions_to_scrape = ["4-1", "4-2", "4-3"]
-    # for version in versions_to_scrape:
-    #     data = scraper.scrape_update_items(version, "zh-CN")
-    #     if data:
-    #         scraper.save_to_json(data, f"pubg_update_{version}.json")
+    versions_to_scrape = ["39-1"]
+    for version in versions_to_scrape:
+        data = scraper.scrape_update_items(version, "zh-CN")
+        if data:
+            scraper.save_to_json(data, f"pubg_update_{version}.json")

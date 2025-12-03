@@ -25,26 +25,26 @@ images_dir = dataset_dir / "images"
 images_dir.mkdir(exist_ok=True)
 
 # 读取JSON文件
-with open("./all_updates.json", "r", encoding="utf-8") as f:
+with open("./pubg_update_39-1.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # 收集所有物品信息
 items_info = {}  # key: image_url, value: item info
 category_counts = defaultdict(int)
 
-for update in data.get("updates", []):
-    for item in update.get("items", []):
-        if "image_url" in item and item["image_url"]:
-            url = item["image_url"]
-            if url not in items_info:  # 避免重复
-                items_info[url] = {
-                    'name': item.get('name', '未知'),
-                    'primary_category': item.get('primary_category_cn', '其他'),
-                    'secondary_category': item.get('secondary_category_cn', ''),
-                    'rarity': item.get('rarity', '未知'),
-                    'item_code': item.get('item_code', '')
-                }
-                category_counts[item.get('primary_category_cn', '其他')] += 1
+for item in data.get("items", []):
+    if "image_url" in item and item["image_url"]:
+        url = item["image_url"]
+        if url not in items_info:  # 避免重复
+            items_info[url] = {
+                'name': item.get('name', '未知'),
+                'primary_category': item.get('primary_category_cn', '其他'),
+                'secondary_category': item.get('secondary_category_cn', ''),
+                'rarity': item.get('rarity', '未知'),
+                'item_code': item.get('item_code', '')
+            }
+            category_counts[item.get('primary_category_cn', '其他')] += 1
+
 
 print(f"找到 {len(items_info)} 个唯一的图片")
 print(f"\n类别统计:")
