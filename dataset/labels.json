@@ -1,5 +1,5 @@
 {
-  "total_images": 135,
+  "total_images": 82,
   "categories": [
     "服装",
     "武器",
@@ -10,1354 +10,824 @@
   ],
   "items": [
     {
-      "item_code": "11010684",
-      "filename": "11010684.png",
-      "name": "巴黎世家冬季25卫衣套装",
+      "item_code": "11030523",
+      "filename": "11030523.png",
+      "name": "优雅情调皮鞋",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030523.png",
+      "filepath": "images/11030523.png"
+    },
+    {
+      "item_code": "11010695",
+      "filename": "11010695.png",
+      "name": "气场全开衬衫",
       "primary_category": "服装",
       "secondary_category": "上衣",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010684.png",
-      "filepath": "images/11010684.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11010695.png",
+      "filepath": "images/11010695.png"
     },
     {
-      "item_code": "11010685",
-      "filename": "11010685.png",
-      "name": "巴黎世家比基尼",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010685.png",
-      "filepath": "images/11010685.png"
-    },
-    {
-      "item_code": "11010687",
-      "filename": "11010687.png",
-      "name": "巴黎世家冬季25羽绒套装",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010687.png",
-      "filepath": "images/11010687.png"
-    },
-    {
-      "item_code": "11020521",
-      "filename": "11020521.png",
-      "name": "冰魇长裤",
+      "item_code": "11020527",
+      "filename": "11020527.png",
+      "name": "高调登场长裤",
       "primary_category": "服装",
       "secondary_category": "腿部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11020521.png",
-      "filepath": "images/11020521.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11020527.png",
+      "filepath": "images/11020527.png"
     },
     {
-      "item_code": "11020520",
-      "filename": "11020520.png",
-      "name": "雪域长裤",
+      "item_code": "11020525",
+      "filename": "11020525.png",
+      "name": "浪漫格调长裤",
       "primary_category": "服装",
       "secondary_category": "腿部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11020520.png",
-      "filepath": "images/11020520.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11020525.png",
+      "filepath": "images/11020525.png"
     },
     {
-      "item_code": "11020523",
-      "filename": "11020523.png",
-      "name": "狂怒毛绒短裤",
+      "item_code": "11030526",
+      "filename": "11030526.png",
+      "name": "牛仔响尾蛇长靴",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030526.png",
+      "filepath": "images/11030526.png"
+    },
+    {
+      "item_code": "11030524",
+      "filename": "11030524.png",
+      "name": "气场全开皮鞋",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030524.png",
+      "filepath": "images/11030524.png"
+    },
+    {
+      "item_code": "11030525",
+      "filename": "11030525.png",
+      "name": "浪漫格调短靴",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030525.png",
+      "filepath": "images/11030525.png"
+    },
+    {
+      "item_code": "11010696",
+      "filename": "11010696.png",
+      "name": "浪漫格调上衣",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010696.png",
+      "filepath": "images/11010696.png"
+    },
+    {
+      "item_code": "11020528",
+      "filename": "11020528.png",
+      "name": "优雅情调短裤",
       "primary_category": "服装",
       "secondary_category": "腿部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11020523.png",
-      "filepath": "images/11020523.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11020528.png",
+      "filepath": "images/11020528.png"
     },
     {
-      "item_code": "11010690",
-      "filename": "11010690.png",
-      "name": "邪恶企鹅连身衣",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010690.png",
-      "filepath": "images/11010690.png"
-    },
-    {
-      "item_code": "11010688",
-      "filename": "11010688.png",
-      "name": "巴黎世家冬季25高定套装",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010688.png",
-      "filepath": "images/11010688.png"
-    },
-    {
-      "item_code": "11010686",
-      "filename": "11010686.png",
-      "name": "巴黎世家冬季25标准套装",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010686.png",
-      "filepath": "images/11010686.png"
-    },
-    {
-      "item_code": "11020522",
-      "filename": "11020522.png",
-      "name": "雪域探险长裤",
+      "item_code": "11020526",
+      "filename": "11020526.png",
+      "name": "气场全开短裤",
       "primary_category": "服装",
       "secondary_category": "腿部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11020522.png",
-      "filepath": "images/11020522.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11020526.png",
+      "filepath": "images/11020526.png"
     },
     {
-      "item_code": "11050387",
-      "filename": "11050387.png",
-      "name": "雪域夹克",
+      "item_code": "11010697",
+      "filename": "11010697.png",
+      "name": "优雅情调衬衫",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010697.png",
+      "filepath": "images/11010697.png"
+    },
+    {
+      "item_code": "11030527",
+      "filename": "11030527.png",
+      "name": "高调登场短靴",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030527.png",
+      "filepath": "images/11030527.png"
+    },
+    {
+      "item_code": "11010694",
+      "filename": "11010694.png",
+      "name": "高调登场上衣",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010694.png",
+      "filepath": "images/11010694.png"
+    },
+    {
+      "item_code": "11030522",
+      "filename": "11030522.png",
+      "name": "林影潜行短靴",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030522.png",
+      "filepath": "images/11030522.png"
+    },
+    {
+      "item_code": "11020529",
+      "filename": "11020529.png",
+      "name": "牛仔响尾蛇短裤",
+      "primary_category": "服装",
+      "secondary_category": "腿部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11020529.png",
+      "filepath": "images/11020529.png"
+    },
+    {
+      "item_code": "11020524",
+      "filename": "11020524.png",
+      "name": "林影潜行短裤",
+      "primary_category": "服装",
+      "secondary_category": "腿部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11020524.png",
+      "filepath": "images/11020524.png"
+    },
+    {
+      "item_code": "11010692",
+      "filename": "11010692.png",
+      "name": "牛仔响尾蛇上衣",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010692.png",
+      "filepath": "images/11010692.png"
+    },
+    {
+      "item_code": "11010693",
+      "filename": "11010693.png",
+      "name": "林影潜行上衣",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010693.png",
+      "filepath": "images/11010693.png"
+    },
+    {
+      "item_code": "11010698",
+      "filename": "11010698.png",
+      "name": "随性牛仔上衣与短裤",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11010698.png",
+      "filepath": "images/11010698.png"
+    },
+    {
+      "item_code": "11030528",
+      "filename": "11030528.png",
+      "name": "随性牛仔短靴",
+      "primary_category": "服装",
+      "secondary_category": "鞋子",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11030528.png",
+      "filepath": "images/11030528.png"
+    },
+    {
+      "item_code": "11040207",
+      "filename": "11040207.png",
+      "name": "浪漫格调手套",
+      "primary_category": "服装",
+      "secondary_category": "手部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11040207.png",
+      "filepath": "images/11040207.png"
+    },
+    {
+      "item_code": "11040204",
+      "filename": "11040204.png",
+      "name": "牛仔响尾蛇美甲",
+      "primary_category": "服装",
+      "secondary_category": "手部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11040204.png",
+      "filepath": "images/11040204.png"
+    },
+    {
+      "item_code": "11040206",
+      "filename": "11040206.png",
+      "name": "林影潜行戒指",
+      "primary_category": "服装",
+      "secondary_category": "手部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11040206.png",
+      "filepath": "images/11040206.png"
+    },
+    {
+      "item_code": "11040205",
+      "filename": "11040205.png",
+      "name": "高调登场手套",
+      "primary_category": "服装",
+      "secondary_category": "手部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11040205.png",
+      "filepath": "images/11040205.png"
+    },
+    {
+      "item_code": "11050392",
+      "filename": "11050392.png",
+      "name": "随性牛仔夹克",
       "primary_category": "服装",
       "secondary_category": "外套",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11050387.png",
-      "filepath": "images/11050387.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11050392.png",
+      "filepath": "images/11050392.png"
     },
     {
-      "item_code": "11030519",
-      "filename": "11030519.png",
-      "name": "雪域探险短靴",
-      "primary_category": "服装",
-      "secondary_category": "鞋子",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11030519.png",
-      "filepath": "images/11030519.png"
-    },
-    {
-      "item_code": "11040201",
-      "filename": "11040201.png",
-      "name": "雪域手套",
-      "primary_category": "服装",
-      "secondary_category": "手部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11040201.png",
-      "filepath": "images/11040201.png"
-    },
-    {
-      "item_code": "11030521",
-      "filename": "11030521.png",
-      "name": "邪恶企鹅短靴",
-      "primary_category": "服装",
-      "secondary_category": "鞋子",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11030521.png",
-      "filepath": "images/11030521.png"
-    },
-    {
-      "item_code": "11030518",
-      "filename": "11030518.png",
-      "name": "雪域短靴",
-      "primary_category": "服装",
-      "secondary_category": "鞋子",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11030518.png",
-      "filepath": "images/11030518.png"
-    },
-    {
-      "item_code": "11030520",
-      "filename": "11030520.png",
-      "name": "狂怒毛绒长靴",
-      "primary_category": "服装",
-      "secondary_category": "鞋子",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11030520.png",
-      "filepath": "images/11030520.png"
-    },
-    {
-      "item_code": "11010691",
-      "filename": "11010691.png",
-      "name": "雪域迷踪连身衣",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010691.png",
-      "filepath": "images/11010691.png"
-    },
-    {
-      "item_code": "11010689",
-      "filename": "11010689.png",
-      "name": "狂怒毛绒外套",
-      "primary_category": "服装",
-      "secondary_category": "上衣",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11010689.png",
-      "filepath": "images/11010689.png"
-    },
-    {
-      "item_code": "11040203",
-      "filename": "11040203.png",
-      "name": "狂怒毛绒手套",
-      "primary_category": "服装",
-      "secondary_category": "手部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11040203.png",
-      "filepath": "images/11040203.png"
-    },
-    {
-      "item_code": "11040202",
-      "filename": "11040202.png",
-      "name": "雪域探险手套",
-      "primary_category": "服装",
-      "secondary_category": "手部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11040202.png",
-      "filepath": "images/11040202.png"
-    },
-    {
-      "item_code": "12015047",
-      "filename": "12015047.png",
-      "name": "节日惊喜",
+      "item_code": "12015055",
+      "filename": "12015055.png",
+      "name": "银色芳华- SKS",
       "primary_category": "武器",
       "secondary_category": "精确射手步枪",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015047.png",
-      "filepath": "images/12015047.png"
+      "url": "https://cdn.pubgitems.info/i-icons/12015055.png",
+      "filepath": "images/12015055.png"
     },
     {
-      "item_code": "12015040",
-      "filename": "12015040.png",
-      "name": "破冰者",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
+      "item_code": "11060258",
+      "filename": "11060258.png",
+      "name": "浪漫格调贝雷帽",
+      "primary_category": "服装",
+      "secondary_category": "头部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015040.png",
-      "filepath": "images/12015040.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11060258.png",
+      "filepath": "images/11060258.png"
     },
     {
-      "item_code": "12012039",
-      "filename": "12012039.png",
-      "name": "幽影残魂",
+      "item_code": "12015054",
+      "filename": "12015054.png",
+      "name": "镀金电纹",
       "primary_category": "武器",
-      "secondary_category": "狙击步枪",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/12012039.png",
-      "filepath": "images/12012039.png"
+      "secondary_category": "精确射手步枪",
+      "rarity": "精英",
+      "url": "https://cdn.pubgitems.info/i-icons/12015054.png",
+      "filepath": "images/12015054.png"
     },
     {
-      "item_code": "12015044",
-      "filename": "12015044.png",
-      "name": "赛季39竞技水晶",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
+      "item_code": "11060257",
+      "filename": "11060257.png",
+      "name": "高调登场贝雷帽",
+      "primary_category": "服装",
+      "secondary_category": "头部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015044.png",
-      "filepath": "images/12015044.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11060257.png",
+      "filepath": "images/11060257.png"
     },
     {
-      "item_code": "12015039",
-      "filename": "12015039.png",
-      "name": "破冰者",
+      "item_code": "12015053",
+      "filename": "12015053.png",
+      "name": "镀金电纹",
       "primary_category": "武器",
       "secondary_category": "冲锋枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015039.png",
-      "filepath": "images/12015039.png"
-    },
-    {
-      "item_code": "12015042",
-      "filename": "12015042.png",
-      "name": "赛季39竞技大师",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015042.png",
-      "filepath": "images/12015042.png"
-    },
-    {
-      "item_code": "12015045",
-      "filename": "12015045.png",
-      "name": "赛季39竞技铂金",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015045.png",
-      "filepath": "images/12015045.png"
-    },
-    {
-      "item_code": "12015041",
-      "filename": "12015041.png",
-      "name": "赛季39竞技生存者",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015041.png",
-      "filepath": "images/12015041.png"
-    },
-    {
-      "item_code": "12015046",
-      "filename": "12015046.png",
-      "name": "赛季39竞技黄金",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015046.png",
-      "filepath": "images/12015046.png"
-    },
-    {
-      "item_code": "12015043",
-      "filename": "12015043.png",
-      "name": "赛季39竞技钻石",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015043.png",
-      "filepath": "images/12015043.png"
-    },
-    {
-      "item_code": "11070173",
-      "filename": "11070173.png",
-      "name": "冰魇口罩",
-      "primary_category": "服装",
-      "secondary_category": "面具",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11070173.png",
-      "filepath": "images/11070173.png"
-    },
-    {
-      "item_code": "12014037",
-      "filename": "12014037.png",
-      "name": "幽影残魂",
-      "primary_category": "武器",
-      "secondary_category": "狙击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12014037.png",
-      "filepath": "images/12014037.png"
-    },
-    {
-      "item_code": "12014038",
-      "filename": "12014038.png",
-      "name": "美杜莎",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12014038.png",
-      "filepath": "images/12014038.png"
-    },
-    {
-      "item_code": "11070174",
-      "filename": "11070174.png",
-      "name": "邪恶企鹅头套",
-      "primary_category": "服装",
-      "secondary_category": "面具",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11070174.png",
-      "filepath": "images/11070174.png"
-    },
-    {
-      "item_code": "12011092",
-      "filename": "12011092.png",
-      "name": "暗影之策",
-      "primary_category": "武器",
-      "secondary_category": "轻机枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12011092.png",
-      "filepath": "images/12011092.png"
-    },
-    {
-      "item_code": "11060254",
-      "filename": "11060254.png",
-      "name": "雪域面罩",
-      "primary_category": "服装",
-      "secondary_category": "头部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11060254.png",
-      "filepath": "images/11060254.png"
-    },
-    {
-      "item_code": "11060256",
-      "filename": "11060256.png",
-      "name": "雪域迷踪头套",
-      "primary_category": "服装",
-      "secondary_category": "头部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11060256.png",
-      "filepath": "images/11060256.png"
-    },
-    {
-      "item_code": "11050388",
-      "filename": "11050388.png",
-      "name": "冰魇连帽夹克",
-      "primary_category": "服装",
-      "secondary_category": "外套",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11050388.png",
-      "filepath": "images/11050388.png"
-    },
-    {
-      "item_code": "11060255",
-      "filename": "11060255.png",
-      "name": "狂怒毛绒头套",
-      "primary_category": "服装",
-      "secondary_category": "头部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11060255.png",
-      "filepath": "images/11060255.png"
-    },
-    {
-      "item_code": "11050389",
-      "filename": "11050389.png",
-      "name": "雪域探险夹克",
-      "primary_category": "服装",
-      "secondary_category": "外套",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/11050389.png",
-      "filepath": "images/11050389.png"
-    },
-    {
-      "item_code": "12015049",
-      "filename": "12015049.png",
-      "name": "节日惊喜",
-      "primary_category": "武器",
-      "secondary_category": "霰弹枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015049.png",
-      "filepath": "images/12015049.png"
-    },
-    {
-      "item_code": "12015048",
-      "filename": "12015048.png",
-      "name": "节日惊喜",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015048.png",
-      "filepath": "images/12015048.png"
-    },
-    {
-      "item_code": "12031274",
-      "filename": "12031274.png",
-      "name": "巴黎世家人造毛",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031274.png",
-      "filepath": "images/12031274.png"
-    },
-    {
-      "item_code": "12015050",
-      "filename": "12015050.png",
-      "name": "暗影之策",
-      "primary_category": "武器",
-      "secondary_category": "突击步枪",
       "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/12015050.png",
-      "filepath": "images/12015050.png"
+      "url": "https://cdn.pubgitems.info/i-icons/12015053.png",
+      "filepath": "images/12015053.png"
     },
     {
-      "item_code": "12015051",
-      "filename": "12015051.png",
-      "name": "暗影之策",
-      "primary_category": "武器",
-      "secondary_category": "霰弹枪",
-      "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/12015051.png",
-      "filepath": "images/12015051.png"
-    },
-    {
-      "item_code": "12031277",
-      "filename": "12031277.png",
-      "name": "悠哉企鹅",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031277.png",
-      "filepath": "images/12031277.png"
-    },
-    {
-      "item_code": "12032286",
-      "filename": "12032286.png",
-      "name": "巴黎世家背包（2级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032286.png",
-      "filepath": "images/12032286.png"
-    },
-    {
-      "item_code": "12032287",
-      "filename": "12032287.png",
-      "name": "巴黎世家背包（3级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032287.png",
-      "filepath": "images/12032287.png"
-    },
-    {
-      "item_code": "12020067",
-      "filename": "12020067.png",
-      "name": "“泰索尼克”达西亚轿车",
-      "primary_category": "其他",
-      "secondary_category": "载具",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12020067.png",
-      "filepath": "images/12020067.png"
-    },
-    {
-      "item_code": "12031273",
-      "filename": "12031273.png",
-      "name": "巴黎世家人造毛",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031273.png",
-      "filepath": "images/12031273.png"
-    },
-    {
-      "item_code": "12031276",
-      "filename": "12031276.png",
-      "name": "悠哉企鹅",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031276.png",
-      "filepath": "images/12031276.png"
-    },
-    {
-      "item_code": "12030110",
-      "filename": "12030110.png",
-      "name": "泰索尼克降落伞",
-      "primary_category": "装备",
-      "secondary_category": "降落伞",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12030110.png",
-      "filepath": "images/12030110.png"
-    },
-    {
-      "item_code": "12030111",
-      "filename": "12030111.png",
-      "name": "巴黎世家降落伞",
-      "primary_category": "装备",
-      "secondary_category": "降落伞",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12030111.png",
-      "filepath": "images/12030111.png"
-    },
-    {
-      "item_code": "12031278",
-      "filename": "12031278.png",
-      "name": "极地盟友",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031278.png",
-      "filepath": "images/12031278.png"
-    },
-    {
-      "item_code": "12032285",
-      "filename": "12032285.png",
-      "name": "巴黎世家背包（1级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032285.png",
-      "filepath": "images/12032285.png"
-    },
-    {
-      "item_code": "12015052",
-      "filename": "12015052.png",
-      "name": "巴黎世家",
-      "primary_category": "武器",
-      "secondary_category": "近战",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12015052.png",
-      "filepath": "images/12015052.png"
-    },
-    {
-      "item_code": "12031279",
-      "filename": "12031279.png",
-      "name": "艾伦格零度计划",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031279.png",
-      "filepath": "images/12031279.png"
-    },
-    {
-      "item_code": "12030109",
-      "filename": "12030109.png",
-      "name": "赛季39竞技降落伞",
-      "primary_category": "装备",
-      "secondary_category": "降落伞",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12030109.png",
-      "filepath": "images/12030109.png"
-    },
-    {
-      "item_code": "12031275",
-      "filename": "12031275.png",
-      "name": "巴黎世家人造毛",
-      "primary_category": "装备",
-      "secondary_category": "头盔",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12031275.png",
-      "filepath": "images/12031275.png"
-    },
-    {
-      "item_code": "12020068",
-      "filename": "12020068.png",
-      "name": "“寒冰宝藏”恣马",
-      "primary_category": "其他",
-      "secondary_category": "载具",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12020068.png",
-      "filepath": "images/12020068.png"
-    },
-    {
-      "item_code": "13001401",
-      "filename": "13001401.png",
-      "name": "巴黎世家套装 2",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/13001401.png",
-      "filepath": "images/13001401.png"
-    },
-    {
-      "item_code": "13001402",
-      "filename": "13001402.png",
-      "name": "巴黎世家套装 3",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/13001402.png",
-      "filepath": "images/13001402.png"
-    },
-    {
-      "item_code": "12032288",
-      "filename": "12032288.png",
-      "name": "小小捣蛋鬼背包（1级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032288.png",
-      "filepath": "images/12032288.png"
-    },
-    {
-      "item_code": "13001400",
-      "filename": "13001400.png",
-      "name": "巴黎世家套装 1",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001400.png",
-      "filepath": "images/13001400.png"
-    },
-    {
-      "item_code": "12032291",
-      "filename": "12032291.png",
-      "name": "艾伦格零度计划背包（3级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032291.png",
-      "filepath": "images/12032291.png"
-    },
-    {
-      "item_code": "12032290",
-      "filename": "12032290.png",
-      "name": "小小捣蛋鬼背包（3级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032290.png",
-      "filepath": "images/12032290.png"
-    },
-    {
-      "item_code": "13001407",
-      "filename": "13001407.png",
-      "name": "巴黎世家物资箱包（x1）",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001407.png",
-      "filepath": "images/13001407.png"
-    },
-    {
-      "item_code": "12032289",
-      "filename": "12032289.png",
-      "name": "小小捣蛋鬼背包（2级）",
-      "primary_category": "装备",
-      "secondary_category": "背包",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/12032289.png",
-      "filepath": "images/12032289.png"
-    },
-    {
-      "item_code": "13001411",
-      "filename": "13001411.png",
-      "name": "巴黎世家物资箱第1阶段套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001411.png",
-      "filepath": "images/13001411.png"
-    },
-    {
-      "item_code": "13001408",
-      "filename": "13001408.png",
-      "name": "巴黎世家物资箱包（x11）",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001408.png",
-      "filepath": "images/13001408.png"
-    },
-    {
-      "item_code": "13001406",
-      "filename": "13001406.png",
-      "name": "街头休闲套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/13001406.png",
-      "filepath": "images/13001406.png"
-    },
-    {
-      "item_code": "13001405",
-      "filename": "13001405.png",
-      "name": "都市战术套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/13001405.png",
-      "filepath": "images/13001405.png"
-    },
-    {
-      "item_code": "13001396",
-      "filename": "13001396.png",
-      "name": "生存通行证：艾伦格零度计划",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001396.png",
-      "filepath": "images/13001396.png"
-    },
-    {
-      "item_code": "13001397",
-      "filename": "13001397.png",
-      "name": "雪域套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001397.png",
-      "filepath": "images/13001397.png"
-    },
-    {
-      "item_code": "13001403",
-      "filename": "13001403.png",
-      "name": "冬季锋芒套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/13001403.png",
-      "filepath": "images/13001403.png"
-    },
-    {
-      "item_code": "13001399",
-      "filename": "13001399.png",
-      "name": "雪域探险套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001399.png",
-      "filepath": "images/13001399.png"
-    },
-    {
-      "item_code": "13001398",
-      "filename": "13001398.png",
-      "name": "冰魇套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001398.png",
-      "filepath": "images/13001398.png"
-    },
-    {
-      "item_code": "13001410",
-      "filename": "13001410.png",
-      "name": "巴黎世家物资箱包（x55）",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001410.png",
-      "filepath": "images/13001410.png"
-    },
-    {
-      "item_code": "13001409",
-      "filename": "13001409.png",
-      "name": "巴黎世家物资箱包（x27）",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001409.png",
-      "filepath": "images/13001409.png"
-    },
-    {
-      "item_code": "13001404",
-      "filename": "13001404.png",
-      "name": "炫酷时尚套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "精英",
-      "url": "https://cdn.pubgitems.info/i-icons/13001404.png",
-      "filepath": "images/13001404.png"
-    },
-    {
-      "item_code": "14100068",
-      "filename": "14100068.png",
-      "name": "幽影残魂",
-      "primary_category": "盒子",
-      "secondary_category": "宝箱",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/14100068.png",
-      "filepath": "images/14100068.png"
-    },
-    {
-      "item_code": "14100069",
-      "filename": "14100069.png",
-      "name": "美杜莎",
-      "primary_category": "盒子",
-      "secondary_category": "宝箱",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/14100069.png",
-      "filepath": "images/14100069.png"
-    },
-    {
-      "item_code": "16100566",
-      "filename": "16100566.png",
-      "name": "胜利之舞161",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100566.png",
-      "filepath": "images/16100566.png"
-    },
-    {
-      "item_code": "13001422",
-      "filename": "13001422.png",
-      "name": "巴黎世家墨镜套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001422.png",
-      "filepath": "images/13001422.png"
-    },
-    {
-      "item_code": "16100568",
-      "filename": "16100568.png",
-      "name": "胜利之舞163",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100568.png",
-      "filepath": "images/16100568.png"
-    },
-    {
-      "item_code": "16100567",
-      "filename": "16100567.png",
-      "name": "胜利之舞162",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100567.png",
-      "filepath": "images/16100567.png"
-    },
-    {
-      "item_code": "14300050",
-      "filename": "14300050.png",
-      "name": "巴黎世家物资箱",
-      "primary_category": "盒子",
-      "secondary_category": "宝箱",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/14300050.png",
-      "filepath": "images/14300050.png"
-    },
-    {
-      "item_code": "16100565",
-      "filename": "16100565.png",
-      "name": "胜利之舞160",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100565.png",
-      "filepath": "images/16100565.png"
-    },
-    {
-      "item_code": "13001421",
-      "filename": "13001421.png",
-      "name": "凛冬异兽表情套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001421.png",
-      "filepath": "images/13001421.png"
-    },
-    {
-      "item_code": "14300051",
-      "filename": "14300051.png",
-      "name": "巴黎世家典藏箱",
-      "primary_category": "盒子",
-      "secondary_category": "宝箱",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/14300051.png",
-      "filepath": "images/14300051.png"
-    },
-    {
-      "item_code": "13001420",
-      "filename": "13001420.png",
-      "name": "节日惊喜武器套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001420.png",
-      "filepath": "images/13001420.png"
-    },
-    {
-      "item_code": "13001419",
-      "filename": "13001419.png",
-      "name": "极地恐惧装备套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001419.png",
-      "filepath": "images/13001419.png"
-    },
-    {
-      "item_code": "13001414",
-      "filename": "13001414.png",
-      "name": "巴黎世家物资箱第4阶段套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001414.png",
-      "filepath": "images/13001414.png"
-    },
-    {
-      "item_code": "13001416",
-      "filename": "13001416.png",
-      "name": "雪域迷踪套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001416.png",
-      "filepath": "images/13001416.png"
-    },
-    {
-      "item_code": "13001415",
-      "filename": "13001415.png",
-      "name": "凛冬异兽大礼包",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001415.png",
-      "filepath": "images/13001415.png"
-    },
-    {
-      "item_code": "13001412",
-      "filename": "13001412.png",
-      "name": "巴黎世家物资箱第2阶段套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001412.png",
-      "filepath": "images/13001412.png"
-    },
-    {
-      "item_code": "13001417",
-      "filename": "13001417.png",
-      "name": "邪恶企鹅套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001417.png",
-      "filepath": "images/13001417.png"
-    },
-    {
-      "item_code": "13001413",
-      "filename": "13001413.png",
-      "name": "巴黎世家物资箱第3阶段套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001413.png",
-      "filepath": "images/13001413.png"
-    },
-    {
-      "item_code": "13001418",
-      "filename": "13001418.png",
-      "name": "狂怒毛绒套装",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001418.png",
-      "filepath": "images/13001418.png"
-    },
-    {
-      "item_code": "13001423",
-      "filename": "13001423.png",
-      "name": "生存通行证：艾伦格零度计划",
-      "primary_category": "盒子",
-      "secondary_category": "套装",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/13001423.png",
-      "filepath": "images/13001423.png"
-    },
-    {
-      "item_code": "18100419",
-      "filename": "18100419.png",
-      "name": "坚毅头盔",
-      "primary_category": "其他",
-      "secondary_category": "喷漆",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18100419.png",
-      "filepath": "images/18100419.png"
-    },
-    {
-      "item_code": "18100417",
-      "filename": "18100417.png",
-      "name": "巴黎世家环形运动 LOGO",
-      "primary_category": "其他",
-      "secondary_category": "喷漆",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/18100417.png",
-      "filepath": "images/18100417.png"
-    },
-    {
-      "item_code": "16100570",
-      "filename": "16100570.png",
-      "name": "巴黎世家：爱意满满",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100570.png",
-      "filepath": "images/16100570.png"
-    },
-    {
-      "item_code": "18010093",
-      "filename": "18010093.png",
-      "name": "青花鱼",
-      "primary_category": "武器",
-      "secondary_category": "挂饰",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18010093.png",
-      "filepath": "images/18010093.png"
-    },
-    {
-      "item_code": "18100416",
-      "filename": "18100416.png",
-      "name": "巴黎世家涂鸦 LOGO",
-      "primary_category": "其他",
-      "secondary_category": "喷漆",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/18100416.png",
-      "filepath": "images/18100416.png"
-    },
-    {
-      "item_code": "16100571",
-      "filename": "16100571.png",
-      "name": "胜利之舞164",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100571.png",
-      "filepath": "images/16100571.png"
-    },
-    {
-      "item_code": "18040458",
-      "filename": "18040458.png",
-      "name": "月影之巅",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040458.png",
-      "filepath": "images/18040458.png"
-    },
-    {
-      "item_code": "18100415",
-      "filename": "18100415.png",
-      "name": "泰索尼克卫星",
-      "primary_category": "其他",
-      "secondary_category": "喷漆",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18100415.png",
-      "filepath": "images/18100415.png"
-    },
-    {
-      "item_code": "18040459",
-      "filename": "18040459.png",
-      "name": "雪暴战士",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040459.png",
-      "filepath": "images/18040459.png"
-    },
-    {
-      "item_code": "16100569",
-      "filename": "16100569.png",
-      "name": "雪舞登场",
-      "primary_category": "外观",
-      "secondary_category": "表情",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/16100569.png",
-      "filepath": "images/16100569.png"
-    },
-    {
-      "item_code": "18040456",
-      "filename": "18040456.png",
-      "name": "巴黎世家",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040456.png",
-      "filepath": "images/18040456.png"
-    },
-    {
-      "item_code": "18100418",
-      "filename": "18100418.png",
-      "name": "巴黎世家涂鸦",
-      "primary_category": "其他",
-      "secondary_category": "喷漆",
-      "rarity": "传奇",
-      "url": "https://cdn.pubgitems.info/i-icons/18100418.png",
-      "filepath": "images/18100418.png"
-    },
-    {
-      "item_code": "18010092",
-      "filename": "18010092.png",
-      "name": "零度计划",
-      "primary_category": "武器",
-      "secondary_category": "挂饰",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18010092.png",
-      "filepath": "images/18010092.png"
-    },
-    {
-      "item_code": "18040454",
-      "filename": "18040454.png",
-      "name": "巴黎世家",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040454.png",
-      "filepath": "images/18040454.png"
-    },
-    {
-      "item_code": "18040455",
-      "filename": "18040455.png",
-      "name": "巴黎世家",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040455.png",
-      "filepath": "images/18040455.png"
-    },
-    {
-      "item_code": "18040457",
-      "filename": "18040457.png",
-      "name": "冰封艾伦格",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040457.png",
-      "filepath": "images/18040457.png"
-    },
-    {
-      "item_code": "18040460",
-      "filename": "18040460.png",
-      "name": "决战雪顶",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040460.png",
-      "filepath": "images/18040460.png"
-    },
-    {
-      "item_code": "18040461",
-      "filename": "18040461.png",
-      "name": "静默狙击手",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040461.png",
-      "filepath": "images/18040461.png"
-    },
-    {
-      "item_code": "18040462",
-      "filename": "18040462.png",
-      "name": "艾伦格零度计划",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040462.png",
-      "filepath": "images/18040462.png"
-    },
-    {
-      "item_code": "18040463",
-      "filename": "18040463.png",
-      "name": "艾伦格零度计划（彩色）",
-      "primary_category": "其他",
-      "secondary_category": "徽章",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18040463.png",
-      "filepath": "images/18040463.png"
-    },
-    {
-      "item_code": "32010051",
-      "filename": "32010051.png",
-      "name": "粉红正义",
+      "item_code": "12015059",
+      "filename": "12015059.png",
+      "name": "拒敌千里折叠式盾牌",
       "primary_category": "武器",
       "secondary_category": "其他",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/32010051.png",
-      "filepath": "images/32010051.png"
+      "url": "https://cdn.pubgitems.info/i-icons/12015059.png",
+      "filepath": "images/12015059.png"
     },
     {
-      "item_code": "31080015",
-      "filename": "31080015.png",
-      "name": "巴黎世家透明方形墨镜",
-      "primary_category": "服装",
-      "secondary_category": "眼部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31080015.png",
-      "filepath": "images/31080015.png"
-    },
-    {
-      "item_code": "32010052",
-      "filename": "32010052.png",
-      "name": "破冰者",
+      "item_code": "12015056",
+      "filename": "12015056.png",
+      "name": "银色芳华",
       "primary_category": "武器",
-      "secondary_category": "霰弹枪",
+      "secondary_category": "突击步枪",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/32010052.png",
-      "filepath": "images/32010052.png"
+      "url": "https://cdn.pubgitems.info/i-icons/12015056.png",
+      "filepath": "images/12015056.png"
     },
     {
-      "item_code": "31080016",
-      "filename": "31080016.png",
-      "name": "巴黎世家360面罩式墨镜",
-      "primary_category": "服装",
-      "secondary_category": "眼部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31080016.png",
-      "filepath": "images/31080016.png"
-    },
-    {
-      "item_code": "31080014",
-      "filename": "31080014.png",
-      "name": "巴黎世家威尼斯海滩面罩",
-      "primary_category": "服装",
-      "secondary_category": "眼部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31080014.png",
-      "filepath": "images/31080014.png"
-    },
-    {
-      "item_code": "31060056",
-      "filename": "31060056.png",
-      "name": "斗鱼黑金渔夫帽",
+      "item_code": "11060260",
+      "filename": "11060260.png",
+      "name": "随性牛仔帽子",
       "primary_category": "服装",
       "secondary_category": "头部",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31060056.png",
-      "filepath": "images/31060056.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11060260.png",
+      "filepath": "images/11060260.png"
     },
     {
-      "item_code": "31050159",
-      "filename": "31050159.png",
-      "name": "雪地迷彩夹克",
+      "item_code": "12015058",
+      "filename": "12015058.png",
+      "name": "贵族名流",
+      "primary_category": "武器",
+      "secondary_category": "轻机枪",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12015058.png",
+      "filepath": "images/12015058.png"
+    },
+    {
+      "item_code": "11060259",
+      "filename": "11060259.png",
+      "name": "林影潜行帽子",
+      "primary_category": "服装",
+      "secondary_category": "头部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/11060259.png",
+      "filepath": "images/11060259.png"
+    },
+    {
+      "item_code": "12013010",
+      "filename": "12013010.png",
+      "name": "粉色烟雾弹",
+      "primary_category": "武器",
+      "secondary_category": "其他",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12013010.png",
+      "filepath": "images/12013010.png"
+    },
+    {
+      "item_code": "11050390",
+      "filename": "11050390.png",
+      "name": "牛仔响尾蛇夹克",
       "primary_category": "服装",
       "secondary_category": "外套",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31050159.png",
-      "filepath": "images/31050159.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11050390.png",
+      "filepath": "images/11050390.png"
     },
     {
-      "item_code": "31030059",
-      "filename": "31030059.png",
-      "name": "雪地迷彩短靴",
+      "item_code": "11050391",
+      "filename": "11050391.png",
+      "name": "林影潜行外套",
       "primary_category": "服装",
-      "secondary_category": "鞋子",
+      "secondary_category": "外套",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31030059.png",
-      "filepath": "images/31030059.png"
+      "url": "https://cdn.pubgitems.info/i-icons/11050391.png",
+      "filepath": "images/11050391.png"
     },
     {
-      "item_code": "18100420",
-      "filename": "18100420.png",
-      "name": "狂暴蛙蛙",
+      "item_code": "12030112",
+      "filename": "12030112.png",
+      "name": "生性狂野降落伞",
+      "primary_category": "装备",
+      "secondary_category": "降落伞",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12030112.png",
+      "filepath": "images/12030112.png"
+    },
+    {
+      "item_code": "12013009",
+      "filename": "12013009.png",
+      "name": "黄色烟雾弹",
+      "primary_category": "武器",
+      "secondary_category": "其他",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12013009.png",
+      "filepath": "images/12013009.png"
+    },
+    {
+      "item_code": "12015057",
+      "filename": "12015057.png",
+      "name": "贵族名流",
+      "primary_category": "武器",
+      "secondary_category": "突击步枪",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12015057.png",
+      "filepath": "images/12015057.png"
+    },
+    {
+      "item_code": "12031280",
+      "filename": "12031280.png",
+      "name": "生性狂野",
+      "primary_category": "装备",
+      "secondary_category": "头盔",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12031280.png",
+      "filepath": "images/12031280.png"
+    },
+    {
+      "item_code": "12032293",
+      "filename": "12032293.png",
+      "name": "牛仔侠客背包（2级）",
+      "primary_category": "装备",
+      "secondary_category": "背包",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12032293.png",
+      "filepath": "images/12032293.png"
+    },
+    {
+      "item_code": "12032294",
+      "filename": "12032294.png",
+      "name": "菱格经典背包（1级）",
+      "primary_category": "装备",
+      "secondary_category": "背包",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12032294.png",
+      "filepath": "images/12032294.png"
+    },
+    {
+      "item_code": "12020069",
+      "filename": "12020069.png",
+      "name": "“生性狂野”摩托车",
+      "primary_category": "其他",
+      "secondary_category": "载具",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12020069.png",
+      "filepath": "images/12020069.png"
+    },
+    {
+      "item_code": "13001425",
+      "filename": "13001425.png",
+      "name": "林影潜行套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001425.png",
+      "filepath": "images/13001425.png"
+    },
+    {
+      "item_code": "13001429",
+      "filename": "13001429.png",
+      "name": "气场全开套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001429.png",
+      "filepath": "images/13001429.png"
+    },
+    {
+      "item_code": "12032296",
+      "filename": "12032296.png",
+      "name": "天鹅绒经典背包（3级）",
+      "primary_category": "装备",
+      "secondary_category": "背包",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12032296.png",
+      "filepath": "images/12032296.png"
+    },
+    {
+      "item_code": "13001424",
+      "filename": "13001424.png",
+      "name": "生存通行证：未知禁区",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001424.png",
+      "filepath": "images/13001424.png"
+    },
+    {
+      "item_code": "13001434",
+      "filename": "13001434.png",
+      "name": "贵族名流武器套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001434.png",
+      "filepath": "images/13001434.png"
+    },
+    {
+      "item_code": "13001431",
+      "filename": "13001431.png",
+      "name": "浪漫格调套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001431.png",
+      "filepath": "images/13001431.png"
+    },
+    {
+      "item_code": "13001430",
+      "filename": "13001430.png",
+      "name": "优雅情调套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001430.png",
+      "filepath": "images/13001430.png"
+    },
+    {
+      "item_code": "13001426",
+      "filename": "13001426.png",
+      "name": "随性牛仔套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001426.png",
+      "filepath": "images/13001426.png"
+    },
+    {
+      "item_code": "13001427",
+      "filename": "13001427.png",
+      "name": "牛仔响尾蛇套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001427.png",
+      "filepath": "images/13001427.png"
+    },
+    {
+      "item_code": "13001428",
+      "filename": "13001428.png",
+      "name": "尊享优雅超级大礼包",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001428.png",
+      "filepath": "images/13001428.png"
+    },
+    {
+      "item_code": "13001433",
+      "filename": "13001433.png",
+      "name": "经典系列背包套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001433.png",
+      "filepath": "images/13001433.png"
+    },
+    {
+      "item_code": "13001432",
+      "filename": "13001432.png",
+      "name": "高调登场套装",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001432.png",
+      "filepath": "images/13001432.png"
+    },
+    {
+      "item_code": "12032295",
+      "filename": "12032295.png",
+      "name": "百搭经典背包（2级）",
+      "primary_category": "装备",
+      "secondary_category": "背包",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/12032295.png",
+      "filepath": "images/12032295.png"
+    },
+    {
+      "item_code": "13001437",
+      "filename": "13001437.png",
+      "name": "PUBG",
+      "primary_category": "盒子",
+      "secondary_category": "套装",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/13001437.png",
+      "filepath": "images/13001437.png"
+    },
+    {
+      "item_code": "16100572",
+      "filename": "16100572.png",
+      "name": "胜利之舞165",
+      "primary_category": "外观",
+      "secondary_category": "表情",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/16100572.png",
+      "filepath": "images/16100572.png"
+    },
+    {
+      "item_code": "14100070",
+      "filename": "14100070.png",
+      "name": "镀金电纹",
+      "primary_category": "盒子",
+      "secondary_category": "宝箱",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/14100070.png",
+      "filepath": "images/14100070.png"
+    },
+    {
+      "item_code": "16100573",
+      "filename": "16100573.png",
+      "name": "瞄准开火",
+      "primary_category": "外观",
+      "secondary_category": "表情",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/16100573.png",
+      "filepath": "images/16100573.png"
+    },
+    {
+      "item_code": "17230062",
+      "filename": "17230062.png",
+      "name": "牛仔响尾蛇纹身",
+      "primary_category": "外观",
+      "secondary_category": "妆容",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/17230062.png",
+      "filepath": "images/17230062.png"
+    },
+    {
+      "item_code": "17230063",
+      "filename": "17230063.png",
+      "name": "林影潜行妆容",
+      "primary_category": "外观",
+      "secondary_category": "妆容",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/17230063.png",
+      "filepath": "images/17230063.png"
+    },
+    {
+      "item_code": "17230064",
+      "filename": "17230064.png",
+      "name": "浪漫格调妆容",
+      "primary_category": "外观",
+      "secondary_category": "妆容",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/17230064.png",
+      "filepath": "images/17230064.png"
+    },
+    {
+      "item_code": "18010094",
+      "filename": "18010094.png",
+      "name": "银翎",
+      "primary_category": "武器",
+      "secondary_category": "挂饰",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18010094.png",
+      "filepath": "images/18010094.png"
+    },
+    {
+      "item_code": "18010095",
+      "filename": "18010095.png",
+      "name": "迷你小马",
+      "primary_category": "武器",
+      "secondary_category": "挂饰",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18010095.png",
+      "filepath": "images/18010095.png"
+    },
+    {
+      "item_code": "18040466",
+      "filename": "18040466.png",
+      "name": "猩红天幕",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040466.png",
+      "filepath": "images/18040466.png"
+    },
+    {
+      "item_code": "18040464",
+      "filename": "18040464.png",
+      "name": "滑板巡查员",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040464.png",
+      "filepath": "images/18040464.png"
+    },
+    {
+      "item_code": "18040465",
+      "filename": "18040465.png",
+      "name": "都市牛仔",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040465.png",
+      "filepath": "images/18040465.png"
+    },
+    {
+      "item_code": "18040467",
+      "filename": "18040467.png",
+      "name": "公会目标",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040467.png",
+      "filepath": "images/18040467.png"
+    },
+    {
+      "item_code": "18040468",
+      "filename": "18040468.png",
+      "name": "未知禁区",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040468.png",
+      "filepath": "images/18040468.png"
+    },
+    {
+      "item_code": "31019985",
+      "filename": "31019985.png",
+      "name": "PUBG 朋克毛衣",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/31019985.png",
+      "filepath": "images/31019985.png"
+    },
+    {
+      "item_code": "18040469",
+      "filename": "18040469.png",
+      "name": "未知禁区（彩色）",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040469.png",
+      "filepath": "images/18040469.png"
+    },
+    {
+      "item_code": "18100421",
+      "filename": "18100421.png",
+      "name": "登板滑行",
       "primary_category": "其他",
       "secondary_category": "喷漆",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/18100420.png",
-      "filepath": "images/18100420.png"
+      "url": "https://cdn.pubgitems.info/i-icons/18100421.png",
+      "filepath": "images/18100421.png"
     },
     {
-      "item_code": "31070037",
-      "filename": "31070037.png",
-      "name": "冰冷微小面罩",
-      "primary_category": "服装",
-      "secondary_category": "面具",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31070037.png",
-      "filepath": "images/31070037.png"
-    },
-    {
-      "item_code": "31060055",
-      "filename": "31060055.png",
-      "name": "企鹅毛球针织帽",
-      "primary_category": "服装",
-      "secondary_category": "头部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31060055.png",
-      "filepath": "images/31060055.png"
-    },
-    {
-      "item_code": "31060054",
-      "filename": "31060054.png",
-      "name": "小精灵睡帽",
-      "primary_category": "服装",
-      "secondary_category": "头部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31060054.png",
-      "filepath": "images/31060054.png"
-    },
-    {
-      "item_code": "31020111",
-      "filename": "31020111.png",
-      "name": "雪地工装裤",
-      "primary_category": "服装",
-      "secondary_category": "腿部",
-      "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31020111.png",
-      "filepath": "images/31020111.png"
-    },
-    {
-      "item_code": "46000013",
-      "filename": "46000013.png",
-      "name": "艾伦格：零度计划",
+      "item_code": "18100423",
+      "filename": "18100423.png",
+      "name": "猫与鱼",
       "primary_category": "其他",
-      "secondary_category": "大厅",
+      "secondary_category": "喷漆",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/46000013.png",
-      "filepath": "images/46000013.png"
+      "url": "https://cdn.pubgitems.info/i-icons/18100423.png",
+      "filepath": "images/18100423.png"
     },
     {
-      "item_code": "31050160",
-      "filename": "31050160.png",
-      "name": "黑龙夹克",
-      "primary_category": "服装",
-      "secondary_category": "外套",
+      "item_code": "18100422",
+      "filename": "18100422.png",
+      "name": "混乱之罐",
+      "primary_category": "其他",
+      "secondary_category": "喷漆",
       "rarity": "未知",
-      "url": "https://cdn.pubgitems.info/i-icons/31050160.png",
-      "filepath": "images/31050160.png"
+      "url": "https://cdn.pubgitems.info/i-icons/18100422.png",
+      "filepath": "images/18100422.png"
+    },
+    {
+      "item_code": "31019987",
+      "filename": "31019987.png",
+      "name": "贺岁独角兽长袖运动衫",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/31019987.png",
+      "filepath": "images/31019987.png"
+    },
+    {
+      "item_code": "31019986",
+      "filename": "31019986.png",
+      "name": "花蕊制服衬衫",
+      "primary_category": "服装",
+      "secondary_category": "上衣",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/31019986.png",
+      "filepath": "images/31019986.png"
+    },
+    {
+      "item_code": "32031052",
+      "filename": "32031052.png",
+      "name": "复古花头盔（3级）",
+      "primary_category": "装备",
+      "secondary_category": "头盔",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/32031052.png",
+      "filepath": "images/32031052.png"
+    },
+    {
+      "item_code": "31060057",
+      "filename": "31060057.png",
+      "name": "怪笑针织帽",
+      "primary_category": "服装",
+      "secondary_category": "头部",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/31060057.png",
+      "filepath": "images/31060057.png"
+    },
+    {
+      "item_code": "18040470",
+      "filename": "18040470.png",
+      "name": "幽灵玩家",
+      "primary_category": "其他",
+      "secondary_category": "徽章",
+      "rarity": "未知",
+      "url": "https://cdn.pubgitems.info/i-icons/18040470.png",
+      "filepath": "images/18040470.png"
     }
   ]
 }

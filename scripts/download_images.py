@@ -25,7 +25,7 @@ images_dir = dataset_dir / "images"
 images_dir.mkdir(exist_ok=True)
 
 # 读取JSON文件
-with open("./pubg_update_39-1.json", "r", encoding="utf-8") as f:
+with open("./pubg_update_39-2.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # 收集所有物品信息

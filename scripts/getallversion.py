@@ -105,6 +105,7 @@ class PUBGItemScraper:
         try:
             response = self.session.get(url)
             response.raise_for_status()
+            response.encoding = 'utf-8'  # 显式设置UTF-8编码
             soup = BeautifulSoup(response.text, 'html.parser')
 
             versions = []
@@ -131,14 +132,27 @@ class PUBGItemScraper:
             print(f"获取版本列表错误: {e}")
             return []
 
-    def scrape_update_items(self, update_version: str = "4-2", language: str = "zh-CN") -> Dict:
-        """抓取特定更新版本的物品信息"""
-        url = f"{self.base_url}/{language}/updates/{update_version}"
+    def scrape_update_items(self, update_version: str = "4-2", language: str = "zh-CN", html_file: Optional[str] = None) -> Dict:
+        """抓取特定更新版本的物品信息
 
+        Args:
+            update_version: 版本号，如 "39-2"
+            language: 语言代码，如 "zh-CN"
+            html_file: 可选，本地HTML文件路径。如果提供，则从本地读取而不是从网络抓取
+        """
         try:
-            response = self.session.get(url)
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+            if html_file:
+                # 从本地文件读取
+                with open(html_file, 'r', encoding='utf-8') as f:
+                    html_content = f.read()
+                soup = BeautifulSoup(html_content, 'html.parser')
+            else:
+                # 从网络抓取
+                url = f"{self.base_url}/{language}/updates/{update_version}"
+                response = self.session.get(url)
+                response.raise_for_status()
+                response.encoding = 'utf-8'  # 显式设置UTF-8编码
+                soup = BeautifulSoup(response.text, 'html.parser')
 
             version = self.parse_version(update_version)
 
@@ -212,6 +226,12 @@ class PUBGItemScraper:
 
         except requests.exceptions.RequestException as e:
             print(f"请求错误 ({update_version}): {e}")
+            return None
+        except FileNotFoundError as e:
+            print(f"文件未找到 ({html_file}): {e}")
+            return None
+        except Exception as e:
+            print(f"处理错误 ({update_version}): {e}")
             return None
 
     def scrape_all_updates(self, language: str = "zh-CN", output_dir: str = "pubg_data", delay: float = 1.0):
@@ -292,9 +312,20 @@ if __name__ == "__main__":
     #     delay=1.0  # 每次请求间隔1秒
     # )
 
-    # 方式2: 只抓取指定版本
-    versions_to_scrape = ["39-1"]
-    for version in versions_to_scrape:
-        data = scraper.scrape_update_items(version, "zh-CN")
-        if data:
-            scraper.save_to_json(data, f"pubg_update_{version}.json")
+    # 方式2: 只抓取指定版本（从网络）
+    # versions_to_scrape = ["39-2"]
+    # for version in versions_to_scrape:
+    #     data = scraper.scrape_update_items(version, "zh-CN")
+    #     if data:
+    #         scraper.save_to_json(data, f"pubg_update_{version}.json")
+
+    # 方式3: 从本地HTML文件读取
+    data = scraper.scrape_update_items(
+        update_version="39.2",
+        language="zh-CN",
+        html_file="./39.2.html"
+    )
+    if data:
+        scraper.save_to_json(data, "pubg_update_39-2.json")
+        print(f"解析完成！共提取 {data['actual_items_count']} 个物品")
+        print(f"数据已保存到: pubg_update_39-2.json")
